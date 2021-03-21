@@ -10,6 +10,8 @@ Welcome! I count on your contribution, making this repository useful for the com
 [Here's how to contribute](https://github.com/bethsouza/LogInsight/blob/master/contribute.md)
 
 ### Announcing vRealize Log Insight 8.4 https://bityli.com/ah7na <br/>
+
+   https://blogs.vmware.com/management/2021/03/announcing-vrealize-log-insight-v8-4-and-log-insight-cloud-new-features.html
   
 ### Product Information
 
